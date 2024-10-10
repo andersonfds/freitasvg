@@ -1,0 +1,4 @@
+# NodeJS Configuration
+node_modules/
+npm-debug.log
+dist/
