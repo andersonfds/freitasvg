@@ -4,6 +4,11 @@
   "description": "Converts SVG to Glyphs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "keywords": [
+    "svg",
+    "font",
+    "glyph"
+  ],
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "ttsc -p tsconfig.build.json",
