@@ -6,7 +6,7 @@
     "execMap": {
         "ts": "ts-node --compiler ttypescript"
     },
-    "watch": ["src/", "main.ts"],
+    "watch": ["src/", "main.ts", "assets/"],
     "events": {
         "restart": "clear",
         "start": "clear"

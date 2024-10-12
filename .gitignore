@@ -2,3 +2,13 @@
 node_modules/
 npm-debug.log
 dist/
+
+# Private svg files
+assets/private_*.svg
+canvas.png
+
+# Mac OS Configuration
+.DS_Store
+
+# WIP
+examples/vue
