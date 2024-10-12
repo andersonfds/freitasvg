@@ -77,3 +77,7 @@ Soon enough I will be adding preview support to all major web frameworks, like R
 - [x] Parse SVG into Glyphs format
 - [x] Render the Glyphs in the client
 - [x] Lists warnings when the SVG is not compatible
+
+#### Footnotes
+
+Check out the [examples](https://github.com/andersonfds/freitasvg/tree/main/examples) folder for more examples on how to use the library. It includes for instance VueJS implementation.
